@@ -14,7 +14,7 @@ This repository contains code to perform color detection in images using the Ope
 ## Setup <a name="setup"></a>
 1. Clone this repository to your local machine:
  ```ruby
- git clone https://github.com/yourusername/color-detection.git
+ git clone https://github.com/ChSuryaShasankaSarma/color-detection.git
 ```
  2. Navigate to the project directory:
 ```ruby
